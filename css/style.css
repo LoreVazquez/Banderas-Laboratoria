@@ -2,9 +2,9 @@ hi{
   text-align: center;
 }
 .bandera{
-  display: block;
+  display: inline-block;
   height: 20vh;
-  width: 50%;
+  width: 20%;
 }
 .amarillo{
   background-color: yellow;
