@@ -1,0 +1,19 @@
+hi{
+  text-align: center;
+}
+.bandera{
+  display: block;
+  height: 20vh;
+  width: 100%;
+}
+.amarillo{
+  background-color: yellow;
+  color: black
+}
+.gris{
+  background-color: gray;
+  color: white;
+}
+#texto-mayusculas{
+  text-transform: uppercase;
+}
